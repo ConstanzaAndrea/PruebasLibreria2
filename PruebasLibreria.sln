@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Libreria", "..\..\..\Desktop\Nueva carpeta\Libreria\Libreria.csproj", "{817EAE5E-96FF-4DD4-B4CB-AEF1CB1AD736}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Libreria", "Libreria\Libreria.csproj", "{817EAE5E-96FF-4DD4-B4CB-AEF1CB1AD736}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestSoulGlo", "..\..\..\Desktop\Nueva carpeta\UnitTestAuxProducto\UnitTestSoulGlo.csproj", "{1A256B92-4B96-4787-A45E-A0FD1B70C865}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestSoulGlo", "UnitTestAuxProducto\UnitTestSoulGlo.csproj", "{1A256B92-4B96-4787-A45E-A0FD1B70C865}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
